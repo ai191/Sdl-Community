@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ltdevops2
+pool: Itdevops2
 
 variables:
   solution: '**/Sdl.Community.AdvancedDisplayFilter.sln'
