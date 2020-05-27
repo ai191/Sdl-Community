@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Studio-OX
+pool: ltdevops2
 
 variables:
   solution: '**/Sdl.Community.AdvancedDisplayFilter.sln'
